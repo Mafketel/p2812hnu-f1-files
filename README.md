@@ -11,3 +11,6 @@ You need the RT3062_PCI_LNA_2T2R_V1_0.bin file and rename it to rt3062.eeprom an
 the 5th till the 9th byte is the MAC address so 00 0C 43 30 62 00 is your mac address if you don't change it.
 
 the aacc3 version is identical to the other known rt3062.eeprom file
+
+
+added a snapshot from march that I compiled where the kernel is slightly smaller then 2mb and the partition is 3mb for the kernel. Needed if you want to use the snapshots.
