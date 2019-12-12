@@ -13,4 +13,4 @@ the 5th till the 9th byte is the MAC address so 00 0C 43 30 62 00 is your mac ad
 the aacc3 version is identical to the other known rt3062.eeprom file
 
 
-added a snapshot from march that I compiled where the kernel is slightly smaller then 2mb and the partition is 3mb for the kernel. Needed if you want to use the snapshots.
+added a snapshot from march that I compiled where the kernel is slightly smaller then 2mb and the partition is 3mb for the kernel. Needed if you want to use the snapshots or version 19 and above.
